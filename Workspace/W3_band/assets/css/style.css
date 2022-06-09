@@ -1,0 +1,42 @@
+/* Reset css */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* 1.vị trí 
+2.kích thước(width,height)
+3.màu sắc 
+4.kiểu dáng(kiểu chữ,hình tròn,vuông,...) */
+
+#main {
+    position: relative;
+    
+}
+
+
+#header {
+    float: left;
+    width: 100%;
+    height: 46px;
+    background-color: #000;
+    color: #fff;
+}
+#header .it{
+    
+}
+
+#slider {
+
+}
+
+
+#content {
+
+}
+
+
+#footer {
+
+}
+
